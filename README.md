@@ -1,2 +1,3 @@
-# emotion_classification
-Text Emotion Analysis Model
+## Emotion Classification
+
+ML model for classification of emotional tone of text
